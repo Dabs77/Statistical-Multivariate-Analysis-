@@ -8,10 +8,10 @@ In more formal terms multivariate analysis is a set of statistical techniques us
 
 Retaking the last example, in an RANDOM case, when a men is looking for an potential girlfriend, when he goes to an bar and star talking with random girls, his head could see like this:
 
-Name | Level of charisma | Age | Color of eyes | Height | She like's Coldplay? | Is she single? | Should I ask for her number? |
-Paula|         9         |  19 |     Green     |  1.60  |        Yes           |       yes      |               yes            |
-Maria|         4         |  24 |     Brown     |  1.72  |        No            |       yes      |               No             | 
-Nina |        ...        | ... |    ......     | ...... |       ....           |       ...      |              ...             |
+- Name | Level of charisma | Age | Color of eyes | Height | She like's Coldplay? | Is she single? | Should I ask for her number? |
+- Paula|         9         |  19 |     Green     |  1.60  |        Yes           |       yes      |               yes            |
+- Maria|         4         |  24 |     Brown     |  1.72  |        No            |       yes      |               No             | 
+- Nina |        ...        | ... |    ......     | ...... |       ....           |       ...      |              ...             |
 
 In this scenario we could say that the variables are all of this characteristics that come from each girl and each girl is what in statistic we called investigation unit (Paula is IU1, Maria IU2) and at the same time we could said that there are some variables that are correlated like "Should I ask for her number?" and "Is she single?" is for this that we could be interested in study how could be correlated other variables like "Should I ask for her number?" and "Color of eyes" or even try to prove independence or dependence on them.
 
