@@ -28,3 +28,16 @@ For do this analysis we could use different multivariate methods like:
 - **Multiple Regression Analysis**: Used to understand the relationship between a single dependent variable and several independent variables. This helps in predicting the dependent variable based on the independents.
 - **Logistic Regression**: Particularly used when the dependent variable is binary. It models the probability of a certain class or event existing such as pass/fail, win/lose, alive/dead.
 
+
+#
+
+We know that the formal metodology for prove multivariate normality is do an hypotesis test
+Sabemos que para probar normalidad se emplea una prueba de hipótesis multivariada, para hacer inferencia sobre miu tenemos que se debe emplear la T2  de Hottelling, ahora para realizar inferencia sobre sigma:
+
+  Distribución sqiuNormal+
+
+  \( \mu = \begin{bmatrix} 0.1 \\ -0.2 \\ 0.05 \end{bmatrix} \) 
+y \( S \) es la matriz de varianzas-covarianzas muestrales, ¿Cuál es la distribución aproximada de: \[
+40\left(\bar{X} - \begin{bmatrix} 0.1 \\ -0.2 \\ 0.05 \end{bmatrix}\right)^{t} S^{-1} \left(\bar{X} - \begin{bmatrix} 0.1 \\ -0.2 \\ 0.05 \end{bmatrix}\right)
+\]?
+
